@@ -10,7 +10,7 @@ This project focuses on analyzing Swiggy order and restaurant data to uncover tr
 .
 ├── sample.ipynb           # Jupyter notebook with analysis
 ├── data                   # to store raw or cleaned data
-├── visuals/               # Folder for saving charts or figures
+├── visuals                # charts or figures
 └── README.md              # Project documentation
 ```
 
